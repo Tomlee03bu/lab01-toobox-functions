@@ -1,3 +1,11 @@
+Partner: Luke Kwon 
+
+[Pulsing Flower]([https://www.shadertoy.com/view/NsVBzy](https://www.shadertoy.com/view/f3t3Dn)).
+
+[Spinning Flower]([https://www.shadertoy.com/view/NsVBzy](https://www.shadertoy.com/view/fX33Dn)).
+
+[Custom Flower](https://www.shadertoy.com/view/N3t3Dn).
+
 # Lab01: Toolbox Functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
