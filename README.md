@@ -1,8 +1,8 @@
 Partner: Luke Kwon 
 
-[Pulsing Flower]([https://www.shadertoy.com/view/NsVBzy](https://www.shadertoy.com/view/f3t3Dn)).
+[Pulsing Flower](https://www.shadertoy.com/view/f3t3Dn).
 
-[Spinning Flower]([https://www.shadertoy.com/view/NsVBzy](https://www.shadertoy.com/view/fX33Dn)).
+[Spinning Flower](https://www.shadertoy.com/view/NsVBzy).
 
 [Custom Flower](https://www.shadertoy.com/view/N3t3Dn).
 
